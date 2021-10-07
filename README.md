@@ -1,5 +1,5 @@
 # Recover-Binary-Search-Tree
-My solution to the Medium Leetcode - Recovery Binary Search Tree. Faster than 94%
+My solution to the Medium Leetcode - Recovery Binary Search Tree. Faster than 100%
 
 
 "You are given the root of a binary search tree (BST), where the values of exactly two nodes of the tree were swapped by mistake. Recover the tree without changing its structure.
